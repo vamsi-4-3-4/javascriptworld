@@ -11,4 +11,7 @@ const movingMarstoMoon=[
 ]
 
 
-export default movingMarstoMoon;
+
+module.exports={
+movingMarstoMoon:movingMarstoMoon
+}
