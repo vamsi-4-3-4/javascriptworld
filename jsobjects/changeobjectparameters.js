@@ -16,4 +16,6 @@ and its name is:${this.name}
 
 }
 
-console.log(spaceshiptomars)
+spaceshiptomars.name="ELON MUSK"
+spaceshiptomars.speedExpected=100
+spaceshiptomars.develop()
