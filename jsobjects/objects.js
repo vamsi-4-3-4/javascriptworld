@@ -17,5 +17,7 @@ and its name is:${this.name}
 }
 
 
+
+
 console.log(spaceshiptomars.name)
 console.log(spaceshiptomars['name'])
