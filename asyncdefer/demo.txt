@@ -1,0 +1,17 @@
+To add javascript to the html document we use the script tag.
+
+We place our script tag at the head or the body section.
+
+Most of the developers will place the script tag in the body.
+
+The reason for that is to use any element in the javascript the document should me leaded first.
+
+We can add our script in head section and we should not wait until the document is laoded.
+
+
+to do this we will use the two options
+
+1.defer
+2.async
+
+when we use defer browser will load all the html first and notice for java script calls and then execute js at the end.
