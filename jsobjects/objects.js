@@ -16,13 +16,6 @@ and its name is:${this.name}
 
 }
 
-spaceshiptomars.speedExpected=100
-spaceshiptomars.owner="Elon Musk"
-spaceshiptomars.develop()
 
-spaceshiptomars.speedExpected=60
-spaceshiptomars.owner="Musk"
-spaceshiptomars.develop()
-
-
-console.log(spaceshiptomars)
+console.log(spaceshiptomars.name)
+console.log(spaceshiptomars['name'])
